@@ -1,0 +1,6 @@
+extractor-base
+==============
+
+A generic file extractor base written in C.
+
+This is my attempt to standardize the various extractors I write for XeNTaX (http://forum.xentax.com)
